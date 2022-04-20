@@ -1,0 +1,20 @@
+.imgcar1 {
+    width: 500px;
+    margin: 20px;
+    float: right;
+}
+.imgcar2 {
+    width: 500px;
+    margin: 20px;
+    float: left;
+}
+
+.main {
+    display: block;
+}
+.text, .video1, .video2 {
+    margin: 20px;
+}
+.video1, .video2 {
+    width: 400px;
+}
